@@ -347,7 +347,7 @@ function renderPosts(posts, minPosts, maxPosts) {
 
 ### `prev`/`next`
 
-Indicate the previous or the next state of a variable in the current context. Used when describing state transitions.
+Indicate the previous or the next state of a variable in the current context. Used when describing state transitions.)))
 
 ```jsx
 async function getPosts() {
