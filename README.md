@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Naming cheatsheet
+# Naming cheatsheet !!!
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
@@ -25,7 +25,7 @@ Naming things is hard. This sheet attempts to make it easier.
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
-## English language
+## English language))
 
 Use English language when naming your variables and functions.
 
@@ -347,7 +347,7 @@ function renderPosts(posts, minPosts, maxPosts) {
 
 ### `prev`/`next`
 
-Indicate the previous or the next state of a variable in the current context. Used when describing state transitions.
+Indicate the previous or the next state of a variable in the current context. Used when describing state transitions.!!!
 
 ```jsx
 async function getPosts() {
