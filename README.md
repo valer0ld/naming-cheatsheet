@@ -7,6 +7,7 @@
 # Naming cheatsheet
 
 1st commit on branch1
+2nd commit on branch1
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
