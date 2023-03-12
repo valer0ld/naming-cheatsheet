@@ -6,9 +6,15 @@
 
 # Naming cheatsheet
 
+<<<<<<< HEAD
 1st line on branch2
 2st line on branch2
 3st line on branch2
+=======
+1st line on branch1
+2st line on branch1
+3st line on branch1
+>>>>>>> branch1
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
@@ -29,7 +35,11 @@ Naming things is hard. This sheet attempts to make it easier.
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
+<<<<<<< HEAD
 ## English language:)
+=======
+## English language))
+>>>>>>> branch1
 
 Use English language when naming your variables and functions.
 
@@ -351,7 +361,11 @@ function renderPosts(posts, minPosts, maxPosts) {
 
 ### `prev`/`next`
 
+<<<<<<< HEAD
 Indicate the previous or the next state of a variable in the current context. Used when describing state transitions.!!!
+=======
+Indicate the previous or the next state of a variable in the current context. Used when describing state transitions.)))
+>>>>>>> branch1
 
 ```jsx
 async function getPosts() {
