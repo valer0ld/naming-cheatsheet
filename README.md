@@ -9,9 +9,9 @@
 1st on branch1
 2nd on branch1
 3rd on branch1
-1st on branch1 in new repository
-2nd on branch1 in new repository
-3rd on branch1 in new repository
+1st on branch1 after merge
+2nd on branch1 after merge
+3rd on branch1 after merge
 
 
 - [English language](#english-language)
